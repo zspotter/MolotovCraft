@@ -1,0 +1,7 @@
+name: MolotovCraft
+version: 1.0
+main: zerothindex.bukkit.molotovcocktail.MolotovPlugin
+author: zerothindex@gmail.com
+commands:
+  molotov:
+    description: access to molotov setting commands
